@@ -1,14 +1,24 @@
-# Oldagram Scrimba Project
+Cardinalsgram:
 
+Cardinalsgram is a solo project inspired by my favorite band, The Cardinals. It is a variation of the original project called Oldegram, which was created by Scrimba. The purpose of this project is to enhance and practice my CSS skills while incorporating modern concepts such as Semantic HTML, mobile-friendly design, accessibility, and the utilization of HTML, CSS, and JavaScript.
 
-## About Scrimba
+Project Details
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Purpose:
+The primary objective of Cardinalsgram is to refine my CSS abilities by applying them to a real-world project. By building this web application, I aim to create an aesthetically pleasing and functional interface that pays tribute to The Cardinals and their music.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Technologies Used:
+The Cardinalsgram project relies on the following technologies:
 
-Happy Coding!
+HTML: The backbone of the web application, providing the structure and content.
+
+CSS: Used extensively to style and customize the appearance of the website, applying modern CSS concepts to create an engaging user experience.
+
+JavaScript: Enhances interactivity and functionality within the web application, enabling dynamic elements and user interactions.
+
+Key Features:
+Semantic HTML: The project emphasizes the use of semantic HTML elements to enhance accessibility and search engine optimization. Properly structured HTML improves the overall quality and readability of the codebase.
+
+Modern CSS Concepts: Cardinalsgram showcases the application of modern CSS techniques, such as flexbox and grid layouts, responsive design, animations, and transitions. These concepts contribute to a visually appealing and user-friendly interface.
+
+Mobile-Friendly Design: Cardinalsgram is designed with a mobile-first approach, ensuring a seamless user experience on various devices and screen sizes. The responsive layout adapts to different resolutions, providing optimal usability and visual coherence.
