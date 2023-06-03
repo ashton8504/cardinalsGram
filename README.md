@@ -2,7 +2,7 @@ Cardinalsgram:
 
 Cardinalsgram is a solo project inspired by my favorite band, The Cardinals. It is a variation of the original project called Oldegram, which was created by Scrimba. The purpose of this project is to enhance and practice my CSS skills while incorporating modern concepts such as Semantic HTML, mobile-friendly design, accessibility, and the utilization of HTML, CSS, and JavaScript.
 
-Project Details
+PROJECT DETAILS
 
 Purpose:
 The primary objective of Cardinalsgram is to refine my CSS abilities by applying them to a real-world project. By building this web application, I aim to create an aesthetically pleasing and functional interface that pays tribute to The Cardinals and their music.
